@@ -12,5 +12,15 @@ const works=[
  'images/9.jpg',
  'images/10.jpg',
  'images/11.jpg',
- 'images/12.jpg'
+ 'images/12.jpg',
+ 'images/13.jpg',
+ 'images/14.jpg',
+ 'images/15.jpg',
+ 'images/16.jpg',
+ 'images/17.jpg',
+ 'images/18.jpg',
+ 'images/19.jpg',
+ 'images/20.jpg',
+ 'images/21.jpg',
+ 'images/22.jpg'
 ];
