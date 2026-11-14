@@ -23,7 +23,7 @@ const works=[
  'images/20.png',
  'images/21.png',
  'images/22.png',
- 'images/23.png',
+ 'images/23.jpg',
  'images/24.jpg',
  'images/25.jpg'
 ];
