@@ -26,5 +26,6 @@ const works=[
  'images/23.jpg',
  'images/24.jpg',
  'images/25.jpg',
- 'images/26.jpg'
+ 'images/26.jpg',
+ 'images/27.jpg'
 ];
